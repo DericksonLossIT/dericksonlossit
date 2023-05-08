@@ -1,7 +1,7 @@
 ## Hi! Welcome to my Github Profile :smiley:
 
-- :computer: I currently work with Front-End Development
-- :books: I'm currently studying Typescript, ReactJS and Web 3.0
+- :computer: I currently work with Fullstack Development at Declare Cripto
+- :books: I'm currently using and studying Typescript, ReactJS, Python and Web 3.0
 - :globe_with_meridians: I'm looking to collaborate in Web 3.0 projects, especially DeFi
 
 
